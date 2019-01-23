@@ -1,0 +1,15 @@
+* text=auto
+
+# git
+.gitignore text
+
+# sources
+*.swift text diff=swift
+
+# shell scripts
+*.sh text eol=lf
+
+*.png binary
+*.jpeg binary
+*.jpg binary
+*.bin binary
