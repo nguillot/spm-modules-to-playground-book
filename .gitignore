@@ -28,6 +28,14 @@ xcuserdata/
 *.dSYM.zip
 *.dSYM
 
+## macOS
+*.DS_Store
+
+## Build generated
+build/
+DerivedData/
+*.xcodeproj/
+
 ## Playgrounds
 timeline.xctimeline
 playground.xcworkspace
