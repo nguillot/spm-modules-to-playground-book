@@ -10,6 +10,6 @@ final class spm_modules_to_playground_bookTests: XCTestCase {
     }
 
     static var allTests = [
-        ("testExample", testExample),
+        ("testExample", testExample)
     ]
 }
